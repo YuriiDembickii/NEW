@@ -1,0 +1,14 @@
+.parh li{
+	list-style-type: none;
+}
+.parh li:before{
+	content: " § ";
+}
+
+
+.circle li{
+	list-style-type: none;
+}
+.circle li:before{
+	content: " o ";	
+}
