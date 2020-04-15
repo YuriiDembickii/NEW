@@ -1,3 +1,11 @@
+.dat li{
+	list-style-type: none;
+}
+
+.dat li:before{
+	content: " · ";	
+}
+
 .parh li{
 	list-style-type: none;
 }
